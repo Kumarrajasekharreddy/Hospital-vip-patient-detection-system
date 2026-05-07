@@ -15,6 +15,27 @@ This system automatically:
 - Tracks waiting area patient presence in real-time
 
 ---
+# Project Screenshots
 
-# Demo Video
-[▶️ Watch Demo Video] (./https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/VIP%20Face%20Recognition%20Demo%20Video%20.mp4)
+## Dashboard UI
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## VIP Detection
+
+![VIP Detection](screenshots/vip_detection.png)
+
+---
+
+## WhatsApp Alert
+
+![WhatsApp Alert](screenshots/whatsapp_alert.png)
+
+---
+
+
+## RTSP Camera Feed
+
+![RTSP Feed](screenshots/rtsp_feed.png)
