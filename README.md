@@ -25,13 +25,13 @@ This system automatically:
 
 ## VIP Detection
 
-![VIP Detection](screenshots/vip_detection.png)
+![VIP Detection](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Screenshot%202026-05-07%20154028.jpg)
 
 ---
 
 ## WhatsApp Alert
 
-![WhatsApp Alert](screenshots/whatsapp_alert.png)
+![WhatsApp Alert]()
 
 ---
 
