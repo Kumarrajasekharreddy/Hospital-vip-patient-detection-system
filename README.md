@@ -38,4 +38,4 @@ This system automatically:
 
 ## RTSP Camera Feed
 
-![RTSP Feed](screenshots/rtsp_feed.png)
+![RTSP Feed](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Screenshot%202026-05-07%20154854.jpg)
