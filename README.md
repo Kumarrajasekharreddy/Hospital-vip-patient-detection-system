@@ -31,7 +31,7 @@ This system automatically:
 
 ## WhatsApp Alert
 
-![WhatsApp Alert]()
+![WhatsApp Alert](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Screenshot%202026-05-07%20154611.jpg)
 
 ---
 
