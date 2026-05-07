@@ -20,6 +20,4 @@ This system automatically:
 
 ## Upload Demo Video
 
-Upload your project demo video into the repository and rename it:
-
-```text
+https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/VIP%20Face%20Recognition%20Demo%20Video%20.mp4
