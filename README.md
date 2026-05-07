@@ -21,6 +21,8 @@ This system automatically:
 
 ![Dashboard](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Screenshot%202026-05-07%201553189.jpg)
 
+
+![Dashboard]()
 ---
 
 ## VIP Detection
