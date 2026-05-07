@@ -19,7 +19,7 @@ This system automatically:
 
 ## Dashboard UI
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Screenshot%202026-05-07%20153329.jpg)
 
 ---
 
