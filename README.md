@@ -17,7 +17,4 @@ This system automatically:
 ---
 
 # Demo Video
-
-## Upload Demo Video
-
-https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/VIP%20Face%20Recognition%20Demo%20Video%20.mp4
+[▶️ Watch Demo Video](.https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/VIP%20Face%20Recognition%20Demo%20Video%20.mp4)
