@@ -23,7 +23,7 @@ This system automatically:
 
 
 ## Total View
-![Dashboard]()
+![Dashboard](https://github.com/Kumarrajasekharreddy/Hospital-vip-patient-detection-system/blob/main/screenshots/Process.png)
 ---
 
 ## VIP Detection
